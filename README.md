@@ -1,4 +1,4 @@
-# 🚗 DriveIndia — Full MERN Car Rental App
+# 🚗 DriveRentSystem — Full MERN Car Rental App
 
 India's #1 Self-Drive Car Rental Platform built with **MongoDB + Express + React + Node.js**
 
